@@ -1,0 +1,2 @@
+Applied Dynamical Systems together with the associated Lab serves as a first problem-oriented introduction to nonlinear dynamics. Nonlinear phenomena will be explored both in the laboratory and on the computer. The lab will cover real-world examples of nonlinear dynamics experiments such as nonlinear electric oscillators and pattern formation in chemical reactions, as well as some paradigmatic models of nonlinear dynamics.
+
